@@ -1,5 +1,9 @@
 Exar USB Serial Driver
 ======================
+#### Version 1C-AK  2023/03/17
+* Fix errors in code.
+* Update to work with kernel 5.15+
+
 Version 1C  2017/1/11
         Add the 9-bit mode support.
         Disbale the debug messages.
